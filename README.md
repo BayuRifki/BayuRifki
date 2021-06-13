@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BayuRifki
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C++
 - I really NOOB at Coding 
 - also this is my first time use github 
 
